@@ -4,7 +4,7 @@ MSSV: N24DCDT057
 
 ## Cấu trúc thư mục
 - phan2.py, phan2.cpp, phan2.jl: Mã nguồn các bài tập.
-- phan4_1.py, phan4_1.cpp, phan4_1.jl: Mã nguồn các bài tập 
+- phan4_1.py, phan4_1.cpp, phan4_1.jl,phan4_2.py,phan4_2.cpp,phan4_2.jl,phan4_3.py,phan4_3.cpp,phan4_3.jl: Mã nguồn các bài tập 
 
 ## Hướng dẫn chạy code
 
